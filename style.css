@@ -1,0 +1,45 @@
+body {
+    font-family: 'Indie Flower', cursive;
+}
+
+.logo {
+    font-size: 50px;
+}
+
+.resimslider {
+    height:600px;
+}
+
+i {
+    font-size: 50px;
+    margin: 10px;
+}
+
+#bookatime {
+    background-color: rgb(247, 178, 190);
+}
+
+#row44 {
+    background-color: rgb(185, 237, 220);
+}
+
+#row45 {
+    background-color: rgb(240, 237, 152);
+}
+
+#row46 {
+    background-color: rgb(167, 245, 141);
+}
+
+#row47 {
+    background-color: rgb(136, 246, 248);
+}
+
+#row48 {
+    background-color: rgb(237, 179, 250);
+}
+
+#notinmonth {
+    background-color: grey;
+    opacity: .4;
+}
